@@ -1,6 +1,6 @@
 # 嘿，老铁们好！我是 nukiyoam 👋
 
-![Profile views](https://gpvc.arturio.dev/nukiyoam)
+![](https://komarev.com/ghpvc/?username=nukiyoam&color=green&abbreviated=true)
 
 ## 关于我
 
